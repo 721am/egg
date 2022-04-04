@@ -8,7 +8,7 @@ Egg holders call `approve` with a deployed version of this contract to allow thi
 
 ## Install
 
-`npm run install`
+`npm install`
 
 ## Build
 
